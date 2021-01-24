@@ -1,7 +1,8 @@
 header:
+
   - titles:
       # @start locale config
-      en      : &EN       Paper Reivew
+      en      : &EN       Posts
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN

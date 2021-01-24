@@ -118,11 +118,11 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
-    shortname: # the Disqus shortname for the site
+    shortname: sungman_cho # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
@@ -169,11 +169,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
+    tracking_id : G-VZVW1ZMZYZ # Google Analytics id for the site
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
