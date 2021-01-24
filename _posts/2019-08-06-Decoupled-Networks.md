@@ -1,11 +1,6 @@
 ---
-
-layout: post
-
 title: Decoupled Networks
-
-categories: [Backbone Networks]
-
+tags: Metric-Learning
 ---
 
 Weiyang Liu, Zhen Liu, Zhiding Yu, Bo Dai, Rongmei Lin, Yisen Wang, James M.Rehg, Le Song

@@ -1,11 +1,6 @@
 ---
-
-layout: post
-
-title: Center-Loss
-
-categories: [BackboneNetworks]
-
+title: CenterLoss
+tags: Metric-Learning
 ---
 
 Yandong Wen, Kaipeng Zhang, Zhifeng Li and Yu Qiao

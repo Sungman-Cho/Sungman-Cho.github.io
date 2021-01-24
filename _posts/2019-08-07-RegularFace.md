@@ -1,6 +1,6 @@
 ---
 title: RegularFace
-tags: Face-Recognition
+tags: Metric-Learning
 ---
 
 Kai Zhao, Jingyi Xu, Ming-Ming Cheng
